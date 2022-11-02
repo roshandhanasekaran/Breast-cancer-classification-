@@ -1,1 +1,3 @@
 # Breast-cancer-classification-
+
+This paper focuses on classifying breast cancer diagnosis based on several variables like radius mean, perimeter mean and area means, and 17 other variables. This was achieved by using classification algorithms like Naive Bayas, SVC, Random Forest, and MLP Classifier. Multiple pre-processing methods were deployed covering standard scaling, Min-Max scaling, feature selection, and PCA  to improve the performance of the models and bring the best from the models and finally compare the models and choose the best suitable model to achieve the final goal.  All the codes used in this coursework were taken from Sklearn, python libraries( pandas and NumPy) were used and matplotlib was utilised to visualize the data. 
